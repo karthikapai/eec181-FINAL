@@ -1,2 +1,6 @@
 # eec181-FINAL
-EEC 181 final project
+This is our senior design final project.
+
+The entire file for our project can be found on http://www.filedropper.com/finalproject1
+
+
