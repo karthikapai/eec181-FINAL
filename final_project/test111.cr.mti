@@ -1,0 +1,7 @@
+C:/Users/qtran/Desktop/final_project1/Accelerator.v {0 {vlog -work work -stats=none C:/Users/qtran/Desktop/final_project1/Accelerator.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module accelerator
+** Error: (vlog-13069) C:/Users/qtran/Desktop/final_project1/Accelerator.v(311): near "endmodule": syntax error, unexpected endmodule.
+
+
+} {4.0 5.0} {}}
